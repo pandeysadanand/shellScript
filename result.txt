@@ -1,0 +1,7 @@
++ read -p 'Enter your first number: ' x
+Enter your first number: 100
++ read -p 'Enter your second number: ' y
+Enter your second number: 200
++ z=300
++ echo 'Sum of X and Y is: 300'
+Sum of X and Y is: 300
