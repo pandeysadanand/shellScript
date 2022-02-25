@@ -1,4 +1,4 @@
-$!/bin/bash
+$!/bin/bash -x
 isPartTime=1;
 isFullTime=2;
 totalSalary=0;
